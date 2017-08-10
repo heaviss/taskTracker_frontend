@@ -1,6 +1,6 @@
 # tasktracker_frontend
 
-> A Vue.js project
+> A Vue.js frontenf for taskTracker (https://github.com/heaviss/taskTracker)
 
 ## Build Setup
 
